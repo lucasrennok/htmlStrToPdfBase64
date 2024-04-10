@@ -1,4 +1,4 @@
-# htmlStrToPdfBase64
+# HTML string To Pdf Base64
 
 Convert a html string to PDF in base64
 
